@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this replication code, please cite this repository."
+type: software
+title: "Replication files for Chapter 5 (Internal Migration over the Life Cycle and the Role of Education: Evidence from Germany) of the Dissertation "Essays on Public Policies and Human Capital Formation"   
+authors:
+  - family-names: Barabasch
+    given-names: Anton
+repository-code: "https://github.com/collderates95/Mobility-Replication"
